@@ -21,6 +21,7 @@ function displayMovie(movie){
     list.textContent= (movie.title)
     listHolder.appendChild(list)
     addClickEvent()
+    
 }
 //Adding the click event listener
 function addClickEvent(){
